@@ -1,4 +1,4 @@
-def suma(a,b):
-    return a + b
-def resta (a,b):
-    return a - b
+def suma(num1, num2):
+    return num1 + num2
+def resta(num1, num2):
+    return num1 - num2
